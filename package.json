@@ -1,0 +1,14 @@
+{
+  "name": "bun-tigerbeetle",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "tigerbeetle-node": "^0.15.3"
+  }
+}
